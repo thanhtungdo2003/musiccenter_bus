@@ -1,0 +1,15 @@
+C:\Users\Thanh Tung\source\repos\MusicBusniess\bin\Debug\net6.0\MusicBusniess.deps.json
+C:\Users\Thanh Tung\source\repos\MusicBusniess\bin\Debug\net6.0\MusicBusniess.dll
+C:\Users\Thanh Tung\source\repos\MusicBusniess\bin\Debug\net6.0\MusicBusniess.pdb
+C:\Users\Thanh Tung\source\repos\MusicBusniess\bin\Debug\net6.0\TT_DBLib.dll
+C:\Users\Thanh Tung\source\repos\MusicBusniess\bin\Debug\net6.0\TT_DBLib.pdb
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\MusicBusniess.csproj.AssemblyReference.cache
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\MusicBusniess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\MusicBusniess.AssemblyInfoInputs.cache
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\MusicBusniess.AssemblyInfo.cs
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\MusicBusniess.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\MusicBusniess.csproj.CopyComplete
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\MusicBusniess.dll
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\refint\MusicBusniess.dll
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\MusicBusniess.pdb
+C:\Users\Thanh Tung\source\repos\MusicBusniess\obj\Debug\net6.0\ref\MusicBusniess.dll
